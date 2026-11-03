@@ -4,8 +4,6 @@ UntisPS is a read-only PowerShell module for [WebUntis](https://webuntis.com). I
 
 UntisPS is an unofficial community project and is not affiliated with Untis GmbH.
 
-> **Status: not yet tested against a live WebUntis server.** The test suite runs against mocks and a local HTTP server built from documented and community-observed behaviour. Run `Test-UntisConnection -Detailed` and `Get-UntisCapability` first on your school, and see [API limitations](#api-limitations).
-
 ## Requirements
 
 - PowerShell 7 or later (recommended), or Windows PowerShell 5.1
