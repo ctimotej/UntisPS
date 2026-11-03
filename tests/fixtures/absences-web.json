@@ -1,0 +1,5 @@
+{ "data": { "absences": [
+  { "id": 8001, "startDate": 20261012, "endDate": 20261012, "startTime": 800, "endTime": 1200, "reason": "Illness", "text": "",
+    "studentName": "Doe Jamie", "excuseStatus": "excused", "isExcused": true },
+  { "id": 8002, "startDate": 20261020, "endDate": 20261021, "startTime": 800, "endTime": 1000, "reason": "", "text": "Open",
+    "studentName": "Doe Jamie", "excuseStatus": "", "isExcused": false } ] } }

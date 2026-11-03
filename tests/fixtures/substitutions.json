@@ -1,0 +1,7 @@
+[ { "type": "cancel", "lsid": 3200, "date": 20261104, "startTime": 835, "endTime": 920,
+    "kl": [{ "id": 51, "name": "5a" }], "te": [{ "id": 22, "name": "HAR" }], "su": [{ "id": 32, "name": "EN" }], "ro": [{ "id": 42, "name": "B202" }], "txt": "Excursion" },
+  { "type": "subst", "lsid": 3300, "date": 20261104, "startTime": 1100, "endTime": 1145,
+    "kl": [{ "id": 52, "name": "5b" }], "te": [{ "id": 23, "name": "OKO", "orgid": 24, "orgname": "VOS" }], "su": [{ "id": 33, "name": "GE" }], "ro": [{ "id": 41, "name": "A101" }] },
+  { "type": "shift", "lsid": 3500, "date": 20261103, "startTime": 800, "endTime": 845,
+    "kl": [{ "id": 51, "name": "5a" }], "te": [{ "id": 21, "name": "MIL" }], "su": [{ "id": 31, "name": "MA" }], "ro": [],
+    "reschedule": { "date": 20261106, "startTime": 1000, "endTime": 1045 } } ]

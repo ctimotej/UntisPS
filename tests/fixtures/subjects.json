@@ -1,0 +1,3 @@
+[ { "id": 31, "name": "MA", "longName": "Mathematics", "active": true },
+  { "id": 32, "name": "EN", "longName": "English", "active": true },
+  { "id": 34, "name": "PH", "longName": "Physics", "active": true } ]

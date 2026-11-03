@@ -1,0 +1,3 @@
+[ { "id": 41, "name": "A101", "longName": "Room A101", "building": "Main", "active": true },
+  { "id": 42, "name": "B202", "longName": "Room B202", "building": "Annex", "active": true },
+  { "id": 44, "name": "101", "longName": "Lab 101", "building": "Annex", "active": true } ]

@@ -1,0 +1,5 @@
+{ "data": { "exams": [
+  { "id": 7101, "examType": "Test", "name": "Fractions", "studentClass": ["5a"], "assignedStudents": [], "examDate": 20261120,
+    "startTime": 800, "endTime": 845, "subject": "Mathematics", "teachers": ["Miller"], "rooms": ["A101"], "text": "Chapters 1-3", "grade": "" },
+  { "id": 7102, "examType": "Essay", "name": "Book report", "studentClass": ["5a", "5b"], "assignedStudents": [], "examDate": 20261112,
+    "startTime": 1000, "endTime": 1130, "subject": "English", "teachers": ["Harper"], "rooms": [], "text": "", "grade": "" } ] } }

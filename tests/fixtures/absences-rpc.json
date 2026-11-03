@@ -1,0 +1,3 @@
+{ "periodsWithAbsences": [
+  { "id": 8101, "studentId": "S-1201", "subjectId": 31, "teacherIds": ["21"], "date": 20261012, "startTime": 800, "endTime": 845,
+    "absenceReason": "Illness", "excuseStatus": "excused" } ] }
